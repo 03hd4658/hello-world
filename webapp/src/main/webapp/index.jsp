@@ -1,7 +1,1 @@
-Howdy All !!
-
-How are you'all feelin ??
-
-I am enjoying learning CI-CD
-
-Its fantastic !!
+ <h1>Modifying code for automatic build using Poll SCM </h1>
