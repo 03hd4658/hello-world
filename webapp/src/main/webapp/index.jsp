@@ -1,1 +1,1 @@
- <h1>Modifying code for automatic build using Poll SCM </h1>
+ <h1>This should execute within a container</h1>
